@@ -130,48 +130,10 @@ export default function App() {
           </div>
 
           <p className="text-dcent-text-muted leading-relaxed mb-2">
-            For detailed instructions on how to install the update using the D&apos;CENT Desktop App, please refer to the User Guide below.
+           Procced to install the update using the D&apos;CENT Firmware x86 compatible installer downloaded.
           </p>
-          <a
-            href="https://userguide.dcentwallet.com/biometric-wallet/firmware-update-from-computer"
-            className="inline-flex items-center justify-center px-6 py-3 rounded-lg border border-dcent-border text-foreground font-semibold text-sm hover:bg-secondary transition-colors mb-10"
-          >
-            User Guide for PC
-          </a>
-
-          <h3 className="text-lg font-semibold text-foreground mb-3 mt-8">
-            2. Update Using an Android Phone (iOS Not Supported Yet)
-          </h3>
-          <p className="text-dcent-text-muted leading-relaxed mb-4">
-            Firmware updates can be performed directly from the D&apos;CENT mobile app on Android.
-          </p>
-
-          <div className="space-y-4 mb-6">
-            <div>
-              <p className="text-dcent-green font-medium mb-1">Newer Model with USB-C port</p>
-              <ul className="pl-6 text-dcent-text-muted space-y-1">
-                <li className="list-disc">Use a USB-C cable.</li>
-                <li className="list-disc"><u>No OTG adapter is required as the USB-C cable allows data communication between the phone and the Biometric wallet.</u></li>
-              </ul>
-            </div>
-            <div>
-              <p className="text-dcent-green font-medium mb-1">Older Model with USB Micro-B (5-pin) port</p>
-              <ul className="pl-6 text-dcent-text-muted space-y-1">
-                <li className="list-disc"><u>Use the D&apos;CENT OTG Cable (sold separately on our store).</u></li>
-                <li className="list-disc">Standard charging cables will not work—the OTG cable is required because it enables data communication between the phone and the Biometric wallet.</li>
-              </ul>
-            </div>
-          </div>
-
-          <p className="text-dcent-text-muted leading-relaxed mb-3">
-            For detailed instructions, please refer to the User Guide below.
-          </p>
-          <a
-            href="https://userguide.dcentwallet.com/biometric-wallet/firmware-update-from-mobile"
-            className="inline-flex items-center justify-center px-6 py-3 rounded-lg border border-dcent-border text-foreground font-semibold text-sm hover:bg-secondary transition-colors"
-          >
-            User Guide for Mobile
-          </a>
+         
+          
         </section>
       </div>
 
